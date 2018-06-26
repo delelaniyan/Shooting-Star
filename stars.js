@@ -1,3 +1,7 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
 var xPos = 226;
 var yPos = 290;
 
